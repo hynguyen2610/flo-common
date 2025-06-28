@@ -1,4 +1,4 @@
-module flo-common
+module github.com/hynguyen2610/flo-common
 
 go 1.23.3
 
