@@ -1,9 +1,9 @@
-package emailjob
+package event
 
 import (
 	"time"
 
-	domain "flo-common/domain"
+	domain "github.com/hynguyen2610/flo-common/domain" //
 
 	"github.com/google/uuid"
 )
